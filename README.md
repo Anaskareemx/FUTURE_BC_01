@@ -15,7 +15,7 @@ The objective of this task was to:
 ---
 
 ## 🔧 Tools & Platforms Used  
-- [CoinSwitch Kuber](https://coinswitch.co)  
+- [CoinSwitch Kuber]  
 - Screenshot tools  
 - GitHub  
 
